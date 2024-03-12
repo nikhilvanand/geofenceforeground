@@ -13,6 +13,7 @@ dependencies:
   flutter:
     sdk: flutter
 
+  flutter_local_notifications: ^16.1.0
   geofence_service:
     # When depending on this package from a real application you should use:
     #   geofence_service: ^x.y.z
